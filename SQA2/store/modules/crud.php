@@ -1,3 +1,4 @@
+
 <?php
 // Incluir el archivo de cabecera y conexión a la base de datos
 include('../includes/header.php');
